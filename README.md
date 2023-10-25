@@ -1,5 +1,5 @@
 # AHJ-2.1
-https://FM-71.github.io/project/
+https://FM-71.github.io/project/index.html
 
 **CI** [![Build status](https://ci.appveyor.com/api/projects/status/xkidh2i33sqcurdk?svg=true)](https://ci.appveyor.com/project/FM-71/project)    [GitHub Pages](https://FM-71.github.io/project/)
 
