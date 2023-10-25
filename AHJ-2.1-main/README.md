@@ -4,7 +4,9 @@
 
 https://FM-71.github.io/project/AHJ-2.1-main/
 
-https://kievsan.github.io/ahj-dom-game/
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/xkidh2i33sqcurdk?svg=true)](https://ci.appveyor.com/project/FM-71/project/AHJ-2.1-main)    [GitHub Pages](https://FM-71.github.io/project/AHJ-2.1-main/)
+
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/xkidh2i33sqcurdk?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-dom-game)    [GitHub Pages](https://kievsan.github.io/ahj-dom-game/)
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
 1. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
