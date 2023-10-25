@@ -4,6 +4,8 @@
 
 https://FM-71.github.io/project/AHJ-2.1-main/
 
+https://kievsan.github.io/ahj-dom-game/
+
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
 1. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
 1. В README.md должен быть размещён бейджик сборки и ссылка на Github Pages
